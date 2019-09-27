@@ -71,7 +71,7 @@ body {
   text-transform: uppercase;
   /* to avoid shakeness of the animation */
   backface-visibility: hidden;
-  margin-bottom: 6rem;
+  margin-top: 6rem;
 }
 .heading-primary-main {
   display: block;
